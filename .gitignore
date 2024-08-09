@@ -1,0 +1,51 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directory
+build/
+
+# Dependency directory
+dependencies/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.xcodeproj
+*.xcworkspace
+
+# Generated files
+Makefile
+CMakeLists.txt.user
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Miscellaneous
+*.log
+*.swp
+*.DS_Store
